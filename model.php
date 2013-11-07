@@ -9,34 +9,6 @@ class Model {
     public function __construct() {
         $this->username = "Admin";
         $this->password = "Password";
-        $this->username = "Admin";
-        $this->password = "Password";
-        $this->username = "Admin";
-        $this->password = "Password";
-        $this->username = "Admin";
-        $this->password = "Password";
-        $this->username = "Admin";
-        $this->password = "Password";
-        $this->username = "Admin";
-        $this->password = "Password";
-        $this->username = "Admin";
-        $this->password = "Password";
-        $this->username = "Admin";
-        $this->password = "Password";
-        $this->username = "Admin";
-        $this->password = "Password";
-        $this->username = "Admin";
-        $this->password = "Password";
-        $this->username = "Admin";
-        $this->password = "Password";
-        $this->username = "Admin";
-        $this->password = "Password";
-        $this->username = "Admin";
-        $this->password = "Password";
-        $this->username = "Admin";
-        $this->password = "Password";
-        $this->username = "Admin";
-        $this->password = "Password";
     }
     
     public function login($username, $password) {
